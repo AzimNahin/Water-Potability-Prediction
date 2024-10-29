@@ -60,11 +60,15 @@ The following metrics are used to evaluate model performance:
 - **AUPR**: Area Under the Precision-Recall Curve
 
 ## Installation
-1. To get started, clone this repository and install the required dependencies:
-  ```bash
-  git clone https://github.com/AzimNahin/Water-Potability-Prediction.git
-  cd Water-Potability-Prediction
-  pip install -r requirements.txt
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AzimNahin/Water-Potability-Prediction.git
+2. Navigate to the project directory:
+   ```bash
+   cd Water-Potability-Prediction
+3. Install the required Python packages:
+   ```bash
+   pip install -r requirements.txt
 
 ## Results
 Results from the model evaluation are displayed in terms of accuracy, sensitivity, specificity, and other metrics. Ensemble models, particularly the stacking ensemble, generally perform well for this dataset.
