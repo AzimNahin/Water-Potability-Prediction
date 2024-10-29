@@ -13,7 +13,6 @@ This repository contains a machine learning project focused on predicting water 
 - [Usage](#usage)
 - [Results](#results)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Project Overview
 The aim of this project is to classify water samples as potable or non-potable based on various chemical properties. It uses a dataset with attributes like pH, hardness, and solids to train a variety of machine learning models and evaluate their performance.
@@ -61,8 +60,15 @@ The following metrics are used to evaluate model performance:
 - **AUPR**: Area Under the Precision-Recall Curve
 
 ## Installation
-To get started, clone this repository and install the required dependencies:
-```bash
-git clone https://github.com/AzimNahin/Water-Potability-Prediction.git
-cd Water-Potability-Prediction
-pip install -r requirements.txt
+1. To get started, clone this repository and install the required dependencies:
+  ```bash
+  git clone https://github.com/AzimNahin/Water-Potability-Prediction.git
+  cd Water-Potability-Prediction
+  pip install -r requirements.txt
+
+## Results
+Results from the model evaluation are displayed in terms of accuracy, sensitivity, specificity, and other metrics. Ensemble models, particularly the stacking ensemble, generally perform well for this dataset.
+
+## Contributors
+- [Azim Nahin](https://github.com/AzimNahin)
+
