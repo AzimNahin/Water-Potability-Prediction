@@ -113,7 +113,6 @@ The **Results.txt** file provides a detailed breakdown of individual model and e
 
 ## Contributors
 
-- **Azim Nahin**  
-- **Sadman1702042**
-
+- [Azim Nahin](https://github.com/AzimNahin)
+- [Sadman1702042](https://github.com/Sadman1702042)
 ---
