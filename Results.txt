@@ -1,0 +1,10 @@
+Accuracy of Logistic Regression Model: 0.68
+Accuracy of Decision Tree Model: 0.65
+Accuracy of Random Forest Model: 0.71
+Accuracy of K-Nearest Neighbors Model: 0.69
+Accuracy of Support Vector Machine Model: 0.72
+Accuracy of AdaBoost Model: 0.65
+Accuracy of XGBoost Model: 0.70
+Accuracy of Ensemble Model(XGB-RF-TabNet): 0.70
+Accuracy of Voting Ensemble Model: 0.69
+Accuracy of Stacking Ensemble Model: 0.71
